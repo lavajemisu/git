@@ -1,5 +1,3 @@
-import math
-
 def get_radius(prompt):
     r = int(input(prompt))
     return r
